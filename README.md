@@ -1,5 +1,6 @@
-
 # Comparison of missing data handling methods in building variant pathogenicity metapredictors
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjuuussi%2Famiss.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjuuussi%2Famiss?ref=badge_shield)
+
 
 ## Description
 
@@ -37,3 +38,6 @@ This project conforms to the principles of open science:
   - We welcome
     - [ideas, bug reports and comments](https://github.com/blueprint-genetics/amiss/issues)
     - [code contributions through GitHub pull requests](https://github.com/blueprint-genetics/amiss/pulls)
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjuuussi%2Famiss.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjuuussi%2Famiss?ref=badge_large)
